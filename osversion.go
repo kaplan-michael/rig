@@ -6,6 +6,8 @@ type OSVersion struct {
 	IDLike  string
 	Name    string
 	Version string
+	Variant string
+	VariantID string
 }
 
 // String returns a human readable representation of OSVersion

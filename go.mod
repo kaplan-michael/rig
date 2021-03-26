@@ -1,4 +1,4 @@
-module github.com/k0sproject/rig
+module github.com/kaplan-michael/rig
 
 go 1.15
 
